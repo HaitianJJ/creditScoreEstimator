@@ -16,6 +16,10 @@
 		88643D022AE9BFF400825CB3 /* creditRemixTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88643D012AE9BFF400825CB3 /* creditRemixTests.swift */; };
 		88643D0C2AE9BFF400825CB3 /* creditRemixUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88643D0B2AE9BFF400825CB3 /* creditRemixUITests.swift */; };
 		88643D0E2AE9BFF400825CB3 /* creditRemixUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88643D0D2AE9BFF400825CB3 /* creditRemixUITestsLaunchTests.swift */; };
+		88643D1B2AE9CE8B00825CB3 /* questionsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88643D1A2AE9CE8A00825CB3 /* questionsViewController.swift */; };
+		88643D1D2AE9CF6A00825CB3 /* homeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88643D1C2AE9CF6A00825CB3 /* homeViewController.swift */; };
+		88643D1F2AE9CFA300825CB3 /* resultViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88643D1E2AE9CFA300825CB3 /* resultViewController.swift */; };
+		88643D212AE9D59200825CB3 /* personalViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88643D202AE9D59200825CB3 /* personalViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +53,10 @@
 		88643D072AE9BFF400825CB3 /* creditRemixUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = creditRemixUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		88643D0B2AE9BFF400825CB3 /* creditRemixUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = creditRemixUITests.swift; sourceTree = "<group>"; };
 		88643D0D2AE9BFF400825CB3 /* creditRemixUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = creditRemixUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		88643D1A2AE9CE8A00825CB3 /* questionsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = questionsViewController.swift; sourceTree = "<group>"; };
+		88643D1C2AE9CF6A00825CB3 /* homeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = homeViewController.swift; sourceTree = "<group>"; };
+		88643D1E2AE9CFA300825CB3 /* resultViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = resultViewController.swift; sourceTree = "<group>"; };
+		88643D202AE9D59200825CB3 /* personalViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = personalViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +111,10 @@
 				88643CEC2AE9BFF300825CB3 /* SceneDelegate.swift */,
 				88643CEE2AE9BFF300825CB3 /* ViewController.swift */,
 				88643CF02AE9BFF300825CB3 /* Main.storyboard */,
+				88643D202AE9D59200825CB3 /* personalViewController.swift */,
+				88643D1E2AE9CFA300825CB3 /* resultViewController.swift */,
+				88643D1C2AE9CF6A00825CB3 /* homeViewController.swift */,
+				88643D1A2AE9CE8A00825CB3 /* questionsViewController.swift */,
 				88643CF32AE9BFF400825CB3 /* Assets.xcassets */,
 				88643CF52AE9BFF400825CB3 /* LaunchScreen.storyboard */,
 				88643CF82AE9BFF400825CB3 /* Info.plist */,
@@ -260,6 +272,10 @@
 			files = (
 				88643CEF2AE9BFF300825CB3 /* ViewController.swift in Sources */,
 				88643CEB2AE9BFF300825CB3 /* AppDelegate.swift in Sources */,
+				88643D1B2AE9CE8B00825CB3 /* questionsViewController.swift in Sources */,
+				88643D1F2AE9CFA300825CB3 /* resultViewController.swift in Sources */,
+				88643D1D2AE9CF6A00825CB3 /* homeViewController.swift in Sources */,
+				88643D212AE9D59200825CB3 /* personalViewController.swift in Sources */,
 				88643CED2AE9BFF300825CB3 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
